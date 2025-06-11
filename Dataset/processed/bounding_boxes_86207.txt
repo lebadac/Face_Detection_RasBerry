@@ -1,0 +1,5 @@
+Dataset/processed/badac/auto_Forward_1749613892.png 461 121 794 565
+Dataset/processed/badac/auto_Looking_Down_1749613926.png 452 173 773 608
+Dataset/processed/badac/auto_Looking_Left_1749613911.png 408 189 723 605
+Dataset/processed/badac/auto_Looking_Right_1749613915.png 538 201 843 613
+Dataset/processed/badac/auto_Looking_Up_1749613922.png 460 124 759 485

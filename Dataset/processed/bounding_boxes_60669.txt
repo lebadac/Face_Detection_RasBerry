@@ -1,0 +1,12 @@
+Dataset/processed/badac/auto_Looking_Left_Moderate_1749615253.png 536 146 838 551
+Dataset/processed/badac/auto_Looking_Up_Moderate_1749615300.png 478 107 783 478
+Dataset/processed/badac/auto_Looking_Up_Mild_1749615298.png 467 90 794 529
+Dataset/processed/badac/auto_Looking_Up_Extreme_1749615304.png 494 209 767 518
+Dataset/processed/badac/auto_Looking_Right_Moderate_1749615269.png 595 174 880 539
+Dataset/processed/badac/auto_Looking_Right_Mild_1749615266.png 555 154 845 554
+Dataset/processed/badac/auto_Looking_Down_Mild_1749615214.png 358 276 889 720
+Dataset/processed/badac/auto_Looking_Right_Extreme_1749615293.png 365 110 679 545
+Dataset/processed/badac/auto_Looking_Left_Extreme_1749615256.png 606 118 925 564
+Dataset/processed/badac/auto_Looking_Left_Mild_1749615238.png 470 133 770 533
+Dataset/processed/badac/auto_Looking_Forward_1749615235.png 481 122 782 531
+Dataset/processed/badac/auto_Looking_Down_Mild_1749615312.png 469 195 778 595

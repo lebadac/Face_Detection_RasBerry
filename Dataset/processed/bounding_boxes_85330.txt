@@ -1,0 +1,5 @@
+Dataset/processed/chicuong/auto_Forward_1749614201.png 467 198 742 560
+Dataset/processed/chicuong/auto_Looking_Left_1749614230.png 451 183 719 546
+Dataset/processed/chicuong/auto_Looking_Down_1749614239.png 455 309 728 656
+Dataset/processed/chicuong/auto_Looking_Right_1749614219.png 510 228 769 565
+Dataset/processed/chicuong/auto_Looking_Up_1749614235.png 469 171 720 442
