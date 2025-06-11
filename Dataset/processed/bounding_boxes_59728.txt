@@ -1,0 +1,2 @@
+Dataset/processed/donald trump/d2.png 428 92 677 415
+Dataset/processed/donald trump/d1.png 518 92 820 497

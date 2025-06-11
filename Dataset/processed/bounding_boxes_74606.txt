@@ -1,0 +1,2 @@
+Dataset/processed/tuyetmai/image01.png 708 196 1172 800
+Dataset/processed/tuyetmai/image02.png 711 273 1108 793

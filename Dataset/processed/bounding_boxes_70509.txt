@@ -1,0 +1,3 @@
+Dataset/processed/badac/21521911_Lê Bá Đắc.png 388 379 553 585
+Dataset/processed/badac/21521911_LeBaDac.png 1496 2086 1732 2373
+Dataset/processed/badac/image01.png 637 270 1105 916

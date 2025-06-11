@@ -1,0 +1,5 @@
+Dataset/processed\ytvn\avt.png 43 21 128 124
+Dataset/processed\ytvn\chandung.png 610 561 908 951
+Dataset/processed\ytvn\TranVanNhuY-3x4.png 68 48 223 253
+Dataset/processed\ytvn\TranVanNhuY_3x4.png 337 336 1040 1268
+Dataset/processed\ytvn\TranVanNhuY_Chan_Dung.png 412 321 603 556

@@ -1,0 +1,8 @@
+Dataset/processed\vantoan\download (1).png 94 13 162 100
+Dataset/processed\vantoan\download.png 64 19 147 116
+Dataset/processed\vantoan\OIP (1).png 71 0 149 96
+Dataset/processed\vantoan\OIP.png 80 27 164 123
+Dataset/processed\vanhau\download (2).png 67 9 132 85
+Dataset/processed\vanhau\OIP (1).png 69 17 158 125
+Dataset/processed\vanhau\OIP (2).png 93 77 158 156
+Dataset/processed\vanhau\OIP.png 69 22 164 135

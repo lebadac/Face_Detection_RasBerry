@@ -1,0 +1,4 @@
+Dataset/processed/badac/image03.png 388 379 553 585
+Dataset/processed/badac/image02.png 409 290 1074 1118
+Dataset/processed/badac/image04.png 1496 2086 1732 2373
+Dataset/processed/badac/Screenshot 2025-06-05 at 15.10.01.png 386 203 1011 987
