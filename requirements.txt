@@ -10,3 +10,4 @@ psutil
 imageio
 flask
 flask_cors
+mediapipe
