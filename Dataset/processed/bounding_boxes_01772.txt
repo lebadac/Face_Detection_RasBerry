@@ -1,0 +1,70 @@
+Dataset/processed/vanhau/OIP.png 69 22 164 135
+Dataset/processed/vanhau/OIP (1).png 69 17 158 125
+Dataset/processed/vanhau/OIP (2).png 93 77 158 156
+Dataset/processed/vanhau/download (2).png 67 9 132 85
+Dataset/processed/chicuong/auto1_Looking_Down_Moderate_1749628802.png 455 181 778 543
+Dataset/processed/chicuong/auto1_Looking_Right_Mild_1749628787.png 538 83 828 459
+Dataset/processed/chicuong/auto1_Looking_Up_Moderate_1749628764.png 460 98 745 415
+Dataset/processed/chicuong/auto1_Looking_Down_Mild_1749628796.png 454 178 767 560
+Dataset/processed/chicuong/auto_Looking_Up_Extreme_1749616224.png 476 231 742 508
+Dataset/processed/chicuong/auto_Looking_Down_Mild_1749616230.png 422 104 764 555
+Dataset/processed/chicuong/auto_Looking_Forward_1749616086.png 471 182 740 528
+Dataset/processed/chicuong/auto1_Looking_Left_Extreme_1749628831.png 585 135 868 560
+Dataset/processed/chicuong/auto1_Looking_Right_Extreme_1749628815.png 393 91 641 464
+Dataset/processed/chicuong/auto_Looking_Up_Mild_1749616205.png 428 91 718 449
+Dataset/processed/chicuong/auto1_Looking_Right_Moderate_1749628791.png 460 81 750 458
+Dataset/processed/chicuong/auto_Looking_Right_Mild_1749616173.png 500 137 784 505
+Dataset/processed/chicuong/auto1_Looking_Up_Extreme_1749628850.png 463 182 761 496
+Dataset/processed/chicuong/auto_Looking_Left_Moderate_1749616150.png 477 161 744 522
+Dataset/processed/chicuong/auto_Looking_Up_Moderate_1749616202.png 448 72 727 375
+Dataset/processed/chicuong/auto_Looking_Left_Extreme_1749616162.png 522 120 785 475
+Dataset/processed/chicuong/auto_Looking_Right_Moderate_1749616177.png 530 146 796 506
+Dataset/processed/chicuong/auto1_Looking_Up_Mild_1749628774.png 470 74 778 454
+Dataset/processed/chicuong/auto_Looking_Down_Moderate_1749616234.png 426 184 755 589
+Dataset/processed/chicuong/auto_Looking_Right_Extreme_1749616196.png 439 195 679 531
+Dataset/processed/chicuong/auto_Looking_Down_1749614239.png 455 309 728 656
+Dataset/processed/chicuong/auto1_Looking_Left_Moderate_1749628783.png 478 88 766 469
+Dataset/processed/chicuong/auto1_Looking_Forward_1749628885.png 437 147 721 505
+Dataset/processed/chicuong/auto1_Looking_Left_Mild_1749628778.png 448 94 738 466
+Dataset/processed/chicuong/auto_Looking_Left_Mild_1749616102.png 414 205 644 533
+Dataset/processed/vantoan/OIP (1).png 71 0 149 96
+Dataset/processed/vantoan/OIP.png 80 27 164 123
+Dataset/processed/vantoan/download.png 64 19 147 116
+Dataset/processed/vantoan/download (1).png 94 13 162 100
+Dataset/processed/tuyetmai/auto_Looking_Right_Extreme_1749997973.png 267 153 428 381
+Dataset/processed/tuyetmai/auto_Looking_Right_Moderate_1749998077.png 227 168 411 423
+Dataset/processed/tuyetmai/auto_Looking_Up_Extreme_1749997908.png 199 120 386 342
+Dataset/processed/tuyetmai/auto_Looking_Down_Mild_1749998042.png 206 226 388 467
+Dataset/processed/tuyetmai/auto_Looking_Left_Moderate_1749998015.png 170 181 332 395
+Dataset/processed/tuyetmai/auto_Looking_Down_Moderate_1749998181.png
+Dataset/processed/tuyetmai/auto_Looking_Right_Mild_1749998063.png 208 163 395 414
+Dataset/processed/tuyetmai/auto_Looking_Forward_1749998032.png 197 203 393 449
+Dataset/processed/tuyetmai/auto_Looking_Up_Moderate_1749997944.png 212 149 398 377
+Dataset/processed/tuyetmai/auto_Looking_Left_Extreme_1749997981.png 185 157 366 385
+Dataset/processed/tuyetmai/auto_Looking_Up_Mild_1749997950.png 202 165 392 399
+Dataset/processed/tuyetmai/auto_Looking_Down_Extreme_1749998191.png 188 276 405 480
+Dataset/processed/tuyetmai/auto_Looking_Left_Mild_1749997884.png 184 179 387 437
+Dataset/processed/badac/auto1_Looking_Left_Mild_1749625662.png 446 189 772 598
+Dataset/processed/badac/auto1_Looking_Down_Mild_1749625737.png 452 223 801 677
+Dataset/processed/badac/auto1_Looking_Left_Extreme_1749625679.png 565 105 919 631
+Dataset/processed/badac/auto_Looking_Right_Mild_1749615266.png 555 154 845 554
+Dataset/processed/badac/auto_Looking_Right_Moderate_1749615269.png 595 174 880 539
+Dataset/processed/badac/auto_Looking_Left_Moderate_1749615253.png 536 146 838 551
+Dataset/processed/badac/auto_Looking_Right_Extreme_1749615293.png 365 110 679 545
+Dataset/processed/badac/auto_Looking_Forward_1749615235.png 481 122 782 531
+Dataset/processed/badac/auto_Looking_Left_Extreme_1749615256.png 606 118 925 564
+Dataset/processed/badac/auto1_Looking_Forward_1749625642.png 486 52 880 605
+Dataset/processed/badac/auto1_Looking_Forward_1749625658.png 491 167 815 603
+Dataset/processed/badac/auto1_Looking_Right_Mild_1749625683.png 517 180 840 621
+Dataset/processed/badac/auto1_Looking_Right_Moderate_1749625686.png 551 209 859 601
+Dataset/processed/badac/auto1_Looking_Up_Moderate_1749625728.png 495 157 790 511
+Dataset/processed/badac/auto_Looking_Left_Mild_1749615238.png 470 133 770 533
+Dataset/processed/badac/auto_Looking_Down_1749613926.png 452 173 773 608
+Dataset/processed/badac/auto_Looking_Up_Extreme_1749615304.png 494 209 767 518
+Dataset/processed/badac/auto_Looking_Down_Mild_1749615312.png 469 195 778 595
+Dataset/processed/badac/auto1_Looking_Left_Moderate_1749625666.png 445 191 749 594
+Dataset/processed/badac/auto_Looking_Up_Mild_1749615298.png 467 90 794 529
+Dataset/processed/badac/auto_Looking_Up_Moderate_1749615300.png 478 107 783 478
+Dataset/processed/badac/auto1_Looking_Up_Extreme_1749625730.png 504 177 790 497
+Dataset/processed/badac/auto1_Looking_Right_Extreme_1749625715.png 478 146 790 578
+Dataset/processed/badac/auto1_Looking_Up_Mild_1749625722.png 483 131 806 555
