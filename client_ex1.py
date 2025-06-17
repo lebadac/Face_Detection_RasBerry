@@ -47,8 +47,6 @@ while True:
         elapsed_time = time.time() - start_time
         result = response.json()  # Parse the JSON response
 
-        print(f"⏱️ Total recognition time: {elapsed_time * 1000:.2f} ms")
-
         name = result.get('name', 'Unknown')
         box = result.get('box', None)
         confidence = result.get('confidence', 0.0)
@@ -62,10 +60,6 @@ while True:
             label = f"{name} ({confidence * 100:.1f}%)"
             cv2.putText(resized, label, (x1, y1 - 10),
                         cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
-
-        # Display the total time taken for recognition on the frame
-        time_label = f"Time: {elapsed_time * 1000:.2f} ms"
-        cv2.putText(resized, time_label, (10, 230), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 1)
 
     except Exception as e:
         print("Error:", e)
