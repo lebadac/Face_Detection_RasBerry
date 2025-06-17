@@ -22,7 +22,7 @@ face_mesh = mp_face_mesh.FaceMesh(
 )
 
 # Output folder
-output_dir = "./Dataset/raw/badac"
+output_dir = "./Dataset/raw/tuyetmai"
 os.makedirs(output_dir, exist_ok=True)
 
 # Pose capture tracking
@@ -129,7 +129,7 @@ while cap.isOpened():
                 else:
                     if (current_time - pose_start_time) >= CAPTURE_DELAY and pose_label not in captured_states:
                         timestamp = int(current_time)
-                        filename = os.path.join(output_dir, f"auto2_{pose_label.replace(' ', '_')}_{timestamp}.jpg")
+                        filename = os.path.join(output_dir, f"auto1_{pose_label.replace(' ', '_')}_{timestamp}.jpg")
                         cv2.imwrite(filename, image)
                         print(f"[CAPTURED] {pose_label} → {filename}")
                         captured_states.add(pose_label)
