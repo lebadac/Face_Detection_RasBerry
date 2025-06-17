@@ -1,0 +1,13 @@
+Dataset/processed/tuyetmai/auto1_Looking_Left_Moderate_1750146604.png 496 16 802 428
+Dataset/processed/tuyetmai/auto1_Looking_Right_Extreme_1750146724.png 548 0 814 357
+Dataset/processed/tuyetmai/auto1_Looking_Left_Extreme_1750146612.png 546 37 829 440
+Dataset/processed/tuyetmai/auto1_Looking_Right_Moderate_1750146621.png 579 51 869 435
+Dataset/processed/tuyetmai/auto1_Looking_Up_Moderate_1750146587.png 472 92 779 445
+Dataset/processed/tuyetmai/auto1_Looking_Down_Mild_1750146717.png 566 58 906 418
+Dataset/processed/tuyetmai/auto1_Looking_Up_Extreme_1750146592.png 492 190 765 492
+Dataset/processed/tuyetmai/auto_Looking_Down_Moderate_1749998181.png
+Dataset/processed/tuyetmai/auto1_Looking_Right_Mild_1750146616.png 537 10 854 419
+Dataset/processed/tuyetmai/auto1_Looking_Up_Mild_1750146583.png 458 109 771 500
+Dataset/processed/tuyetmai/auto1_Looking_Down_Moderate_1750146702.png 556 145 870 487
+Dataset/processed/tuyetmai/auto1_Looking_Forward_1750146579.png 453 129 780 539
+Dataset/processed/tuyetmai/auto1_Looking_Left_Mild_1750146597.png 474 40 783 451
