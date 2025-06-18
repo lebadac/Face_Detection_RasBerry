@@ -22,7 +22,7 @@ face_mesh = mp_face_mesh.FaceMesh(
 )
 
 # Output folder
-output_dir = "./Dataset/raw/tuyetmai"
+output_dir = "./Dataset/raw/badac"
 os.makedirs(output_dir, exist_ok=True)
 
 # Pose capture tracking
@@ -122,7 +122,7 @@ while cap.isOpened():
 
             # Capture if held for 2 seconds and not captured before
             current_time = time.time()
-            if pose_label != "Không có khuôn mặt":
+            if pose_label != "No face":
                 if pose_label != last_pose:
                     last_pose = pose_label
                     pose_start_time = current_time
@@ -166,11 +166,6 @@ while cap.isOpened():
                 landmark_drawing_spec=drawing_spec,
                 connection_drawing_spec=drawing_spec
             )
-
-    # Show FPS
-    end = time.time()
-    fps = 1 / (end - start)
-    cv2.putText(image, f'FPS: {int(fps)}', (20, 440), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0), 2)
 
     # Show window
     cv2.imshow('Head Pose Estimation', image)
