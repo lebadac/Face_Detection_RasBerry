@@ -1,2 +1,1 @@
-# Face_Detection_Rasberry
-# Face
+# Face_Detection using webcam and Rasberry
